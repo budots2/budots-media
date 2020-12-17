@@ -1,7 +1,7 @@
 ---
 title: Cebu Open Water Swimmers 100th kilometer 2020-DEC-06
 subtitle: Optional Project Subtitle
-date: '2019-05-10'
+date: '0002-05-10'
 thumb_image: images/1_thumb.jpg
 template: project
 ---
