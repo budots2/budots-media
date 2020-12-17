@@ -2,7 +2,7 @@
 title: Project Title 2
 subtitle: Optional Project Subtitle
 date: '2019-04-30'
-thumb_image: images/2_thumb.jpg
+thumb_image: images/20201206 - cows.pmb.pocc -048.jpg
 image: images/2.jpg
 template: project
 ---
