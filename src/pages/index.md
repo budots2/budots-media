@@ -5,7 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: >-
-      Hi, we are Budots Media Photographic Services based in Maribago, Lapu LApu
+      Hi, we are Budots Media Photographic Services based in Maribago, Lapu Lapu
       City.
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
