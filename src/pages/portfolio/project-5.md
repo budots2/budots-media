@@ -2,7 +2,7 @@
 title: Project Title 5
 subtitle: Optional Project Subtitle
 date: '2019-01-05'
-thumb_image: images/5_thumb.jpg
+thumb_image: images/130605999_2785304318397659_4933136954687614189_o.jpg
 image: images/5.jpg
 template: project
 ---
