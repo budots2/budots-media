@@ -4,7 +4,9 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Stackbit Exto Portfolio Theme.'
+    title: >-
+      Hi, we are Budots Media Photographic Services based in Maribago, Lapu Lapu
+      City.
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
       one to three sentences, but can be changed as you prefer.
@@ -16,7 +18,7 @@ sections:
     type: section_portfolio
     layout_style: mosaic
     title: Recent Work
-    subtitle: An optional subtitle of the section
+    subtitle: Our 2020 projects.
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
