@@ -3,7 +3,7 @@ title: Project Title 3
 subtitle: Optional Project Subtitle
 date: '2019-04-08'
 thumb_image: images/frame-mb5-0047.png
-image: images/3.jpg
+image: images/frame-mb5-0076.png
 template: project
 ---
 
