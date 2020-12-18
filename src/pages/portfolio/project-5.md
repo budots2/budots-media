@@ -1,6 +1,6 @@
 ---
 title: DEC 08 - PADDLE RACE DAY AT MACTAN NEW TOWN BEACH
-subtitle: organized by Cebu Outrigger Canoe Club
+subtitle: organized by Cebu Outrigger Canoe Club / Island Buzz Philippines
 date: '2019-01-05'
 thumb_image: images/130605999_2785304318397659_4933136954687614189_o.jpg
 image: images/square-celery.jpg
